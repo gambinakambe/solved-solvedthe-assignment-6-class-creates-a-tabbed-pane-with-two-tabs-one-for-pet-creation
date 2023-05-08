@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedthe-assignment-6-class-creates-a-tabbed-pane-with-two-tabs-one-for-pet-creation
+<br>
+The Assignment 6 class creates a Tabbed Pane with // two tabs, one for Pet creation and one for // Pet selection, and adds it as its Applet content // and also sets its size. The method init initializes the Applet with a Pane with two tabs //list of pets to be used in every panel //register panel uses the list of pets //create a tabbed pane with two tabs //sets petlist and selectpanel to private variables //panel 2 is the left side of the screen// The pet type already exists// Please enter a pet type// call update panel which adds the input to list// listOfAnimals
